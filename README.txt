@@ -9,8 +9,6 @@ Link for csv files: https://drive.google.com/drive/folders/1K1ZHSeN37nDNc8HL8vU9
 
 Open the jupyter notebook file.
 
-Comment out the code for mounting the drive to the coloboratory notebook because we are using jupyter notebook and not Google colab. 
-
 Make sure python and pip is installed in the laptop. pip is needed to download packages which are required.
 
 All the packages that need to be installed are put in the codes as pip install which will download the packages.
@@ -45,9 +43,9 @@ All the packages that need to be installed are put in the codes as pip install w
 
 Before running the code make sure to change the path to the directory where csv files are places.
 
-Code for doing this: %cd /drive/MyDrive/SMDMProject/
-
 Mount the drive to the coloboratory notebook with the command in the notebook.
+
+Code for doing this: %cd /drive/MyDrive/SMDMProject/
 
 Run the code snippets one by one or can run the whole notebook at once.
 
